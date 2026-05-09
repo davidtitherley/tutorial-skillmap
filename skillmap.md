@@ -14,7 +14,7 @@
 * name: Move a Sprite
 * description: Create a character and move it.
 * type: tutorial
-* url: github:YOUR-USERNAME/my-skillmap/tutorials/movement
+* url: github:davidtitherley/tutorial-skillmap/tutorials/movement
 
 ### tilemap
 * name: Build a Level
