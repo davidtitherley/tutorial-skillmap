@@ -2,7 +2,7 @@
 # my-platformer-map
 * name: Build Your First Platformer
 * description: Learn to build a platformer step-by-step.
-* infoUrl: https://github.com/davidtitherley/tutorial-skillmap
+* infoUrl: https://github.com/davidtitherley/tutorial-skillmap/tutorials
 * bannerUrl: https://via.placeholder.com/300x200.png
 * primaryColor: #2E86AB
 
