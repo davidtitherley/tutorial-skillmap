@@ -8,7 +8,7 @@ This repo contains a custom MakeCode Arcade skillmap.
 1. Open MakeCode Arcade
 2. Open this URL:
 
-https://arcade.makecode.com/skillmap#github:davidtitherley/tutorial-skillmap/skillmap
+https://arcade.makecode.com/skillmap#github:davidtitherley/tutorial-skillmap/skillmap.md
 
 ## Structure
 
