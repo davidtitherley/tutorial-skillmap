@@ -14,13 +14,13 @@
 * name: Move a Sprite
 * description: Create a character and move it.
 * type: tutorial
-* url: github:davidtitherley/tutorial-skillmap/tutorials/movement
+* url: github:davidtitherley/tutorial-skillmap/tutorials/movement.md
 
 ### tilemap
 * name: Build a Level
 * description: Design your world using a tilemap.
 * type: tutorial
-* url: github:YOUR-USERNAME/my-skillmap/tutorials/tilemap
+* url: github:davidtitherley/tutorial-skillmap/tutorials/enemy.md
 
 ## path-final
 * name: Final Challenge
@@ -30,7 +30,7 @@
 * name: Make Your Game
 * description: Combine everything into a full game.
 * type: tutorial
-* url: github:YOUR-USERNAME/my-skillmap/tutorials/final
+* url: github:davidtitherley/tutorial-skillmap/tutorials/scoring.md
 
 ### reward
 * name: Completed!
